@@ -6,7 +6,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "open.upi.repo"
+        applicationId "opens.upis.repos"
         minSdk 21
         targetSdk 32
         versionCode 1

@@ -1,4 +1,4 @@
-package open.upi.easysendupi;
+package open.upisdk.easysendupi;
 
 import android.annotation.SuppressLint;
 import android.os.Bundle;

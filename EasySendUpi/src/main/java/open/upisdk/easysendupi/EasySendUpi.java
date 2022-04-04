@@ -1,7 +1,6 @@
-package open.upi.easysendupi;
+package open.upisdk.easysendupi;
 
 import android.app.Activity;
-import android.content.Context;
 import android.widget.Toast;
 
 import dev.shreyaspatil.easyupipayment.EasyUpiPayment;

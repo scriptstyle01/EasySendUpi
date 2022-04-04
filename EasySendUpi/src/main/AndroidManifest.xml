@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="open.upi.easysendupi">
+    package="open.upisdk.easysendupi">
     <queries>
         <!-- View Intent for UPI apps -->
         <intent>
@@ -24,7 +24,7 @@
 
     <application>
         <activity
-            android:name=".MainActivity"
+            android:name="open.upisdk.easysendupi.MainActivity"
             android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
     </application>
 

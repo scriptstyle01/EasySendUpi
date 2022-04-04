@@ -1,8 +1,11 @@
-package open.upi.repo;
+package opens.upi.repos;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import opens.upis.repos.R;
+
 
 public class MainActivity extends AppCompatActivity {
 
