@@ -103,7 +103,7 @@ class PaymentUiActivity : AppCompatActivity() {
 				transactionRefId = get("txnRef"),
 				amount = payment.amount,
 				transactionStatus = TransactionStatus.valueOf(
-					get("Status")?.toUpperCase(Locale.getDefault())
+					get("Status")?.uppercase(Locale.getDefault())
 						?: TransactionStatus.FAILURE.name
 				)
 			)
